@@ -23,4 +23,4 @@ Sou apaixonado por tecnologia e estou sempre me desenvolvendo. Ademais, espero q
   <img align="center" alt="Vitor-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
-  ![Snake animation](https://github.com/vtorresdantas/vtorresdantas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vtorresdantas/vtorresdantas/blob/output/github-contribution-grid-snake.svg)
