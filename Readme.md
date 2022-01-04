@@ -2,6 +2,11 @@
 
 Sou apaixonado por tecnologia e estou sempre me desenvolvendo. Ademais, espero que possa lhe contribuir com algum repositório útil.
 
+- 🔭 Estou estudando e colocando meus aprendizados em prática para adentrar no mercado de trabalho de desenvolvimento.
+- 🌱 Tenho conhecimento em JAVA e estou focado no momento em HTML, CSS e JavaScript.
+- 📫 Você pode me encontrar em: vtorresdantas7@gmail.com.
+- ⚡ Sou apaixonado por programação e e-Sports (CSGO).
+
 <div align="center">
   <a href="https://github.com/vtorresdantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtorresdantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
