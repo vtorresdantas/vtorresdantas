@@ -4,7 +4,6 @@ Sou apaixonado por tecnologia e estou sempre me desenvolvendo. Ademais, espero q
 
 - 🔭 Estou estudando e colocando meus aprendizados em prática para adentrar no mercado de trabalho de desenvolvimento.
 - 🌱 Tenho conhecimento em JAVA e estou focado no momento em HTML, CSS e JavaScript.
-- 📫 Você pode me encontrar em: vtorresdantas7@gmail.com.
 - ⚡ Sou apaixonado por programação e e-Sports (CSGO).
 
 <div align="center">
@@ -12,12 +11,16 @@ Sou apaixonado por tecnologia e estou sempre me desenvolvendo. Ademais, espero q
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtorresdantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresdantas&layout=compact&langs_count=7&count_private=false&theme=dark"/>
 </div>
+  
+  # Contato
 
 <div> 
   <a href="https://instagram.com/vtorresdantas7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vtorresdantas7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vtorresdantas7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+  # Habilidades
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
