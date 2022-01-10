@@ -12,15 +12,7 @@ Sou apaixonado por tecnologia e estou sempre me desenvolvendo. Ademais, espero q
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresdantas&layout=compact&langs_count=7&count_private=false&theme=dark"/>
 </div>
   
-  # Contato
-
-<div> 
-  <a href="https://instagram.com/vtorresdantas7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vtorresdantas7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vtorresdantas7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-  # Habilidades
+ # Habilidades
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,3 +24,19 @@ Sou apaixonado por tecnologia e estou sempre me desenvolvendo. Ademais, espero q
 </div>
   
 ![Snake animation](https://github.com/vtorresdantas/vtorresdantas/blob/output/github-contribution-grid-snake.svg)
+  
+## Outras habilidades básicas:
+
+<img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> 
+ 
+  
+## Contate-se comigo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+  
+  [<img src="https://img.icons8.com/office/32/000000/whatsapp--v3.png" alt="Whatsapp logo" >](https://wa.me/5511995398379text=Hi%21+I+see+your+profile+on+github)   [<img src="https://img.icons8.com/color/35/000000/telegram-app--v5.png" alt="Telegram logo" >](https://t.me/vtorresdantas7)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/vtorresdantas7)   [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/vtorresdantas)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:vtorresdantas7@gmail.com)
+
+  
+  ## Total de visitas no meu perfil:
+
+<img src="https://profile-counter.glitch.me/vtorresdantas/count.svg" />
+  
+  # Obrigado pela visita!
