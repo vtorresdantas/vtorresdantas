@@ -8,8 +8,8 @@ Sou apaixonado por tecnologia e estou sempre me desenvolvendo. Ademais, espero q
 
 <div align="center">
   <a href="https://github.com/vtorresdantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtorresdantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresdantas&layout=compact&langs_count=7&count_private=false&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vtorresdantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vtorresdantas&layout=compact&langs_count=7&count_private=false&theme=dark"/>
 </div>
   
  # Habilidades
